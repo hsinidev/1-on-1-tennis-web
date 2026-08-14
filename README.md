@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 1 On 1 Tennis Web
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=1%20On%201%20Tennis%20Web&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="1 On 1 Tennis Web Header Banner" />
+
+  <h1>🚀 1 On 1 Tennis Web</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge" alt="Language: JavaScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/1-on-1-tennis-web"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **1 On 1 Tennis Web** delivers a fast, responsive, and cross-platform browser experience built with **JavaScript** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `JavaScript`
@@ -32,45 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# 1 On 1 Tennis Web - Play Online for Free
-
-## Overview
-Play 1 On 1 Tennis Web online for free. Unblocked and available on all devices. Experience the best 1 On 1 Tennis Web gameplay now!
-
-### Game Details & Guide
-h2 Game Overview  
-h3 What is 1 On 1 Tennis Web?  
-p 1 On 1 Tennis Web is a fast-paced, browser-based tennis game designed for players of all skill levels. With no downloads required, this game offers instant access to a thrilling single-player experience where you compete against an AI opponent in a classic tennis match. The game’s simple mechanics and engaging gameplay make it perfect for casual gamers and sports enthusiasts alike. Whether you’re a seasoned tennis player or a beginner, 1 On 1 Tennis Web provides an exciting way to test your reflexes, strategy, and precision.  
-
-h2 How to Play  
-h3 Controls and Objective  
-p To play 1 On 1 Tennis Web, use your keyboard to control your paddle. The left and right arrow keys move your paddle left and right, while the spacebar or click triggers a powerful shot. The objective is to hit the ball over the net and into your opponent’s court while preventing them from doing the same. Each successful rally earns you a point, and the first player to reach a set score (usually 11 points) wins the match.  
-
-p The game features a dynamic scoring system where you can choose to play best-of-3 or best-of-5 sets. As the match progresses, the AI opponent adapts to your playing style, making each round more challenging. The game also includes power-ups and special shots, such as the serve and smash, which can turn the tide of a match.  
-
-h2 Tips and Tricks for Success  
-h3 Master Your Gameplay  
-p To dominate
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle)
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
